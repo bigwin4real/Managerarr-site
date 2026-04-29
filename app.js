@@ -1,7 +1,8 @@
 const siteConfig = {
   supportEmail: "betonmewinner@gmail.com",
   demoLink: "mailto:betonmewinner@gmail.com?subject=Managerarr%20Demo%20Request",
-  buyLink: "#buy-managerarr-999"
+  buyLink:
+    "mailto:betonmewinner@gmail.com?subject=Buy%20Managerarr%20for%20%249.99&body=Hi%2C%20I%20want%20to%20buy%20Managerarr%20for%20%249.99.%20Please%20send%20me%20the%20next%20steps%20for%20payment%2C%20delivery%2C%20and%20license%20activation."
 };
 
 function makeButton(label, href, tone = "primary") {

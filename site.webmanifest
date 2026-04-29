@@ -1,0 +1,15 @@
+{
+  "name": "Managerarr",
+  "short_name": "Managerarr",
+  "start_url": "/Managerarr-site/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1d6ea7",
+  "icons": [
+    {
+      "src": "assets/managerarr-appicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

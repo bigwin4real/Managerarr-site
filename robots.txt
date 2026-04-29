@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bigwin4real.github.io/Managerarr-site/sitemap.xml
